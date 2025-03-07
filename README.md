@@ -66,5 +66,5 @@ Perimeter: 31.42
 This project is **open-source** and free to use.
 
 ## 🔗 GitHub Repository
-[Shape Calculator Repository](https://github.com/your-username/Shape-Calculator)
+[Shape Calculator Repository](https://github.com/shwetgaur/Shape.git)
 
